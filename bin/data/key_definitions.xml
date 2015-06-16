@@ -1,0 +1,167 @@
+<key-definitions>
+	<keys>
+
+<!-- 
+
+	------- C - center -------		
+
+-->
+
+		<key>
+			<value>0</value>
+			<key_name>C</key_name>
+			<key_values>
+				<key_value>C</key_value>
+				<key_value>a</key_value>
+			</key_values>
+			<colour_description>Red, plain</colour_description>
+<!-- 			<primary_colour>0xEE1C25</primary_colour>
+			<secondary_colour>0xFFFFFF</secondary_colour>
+ -->           <primary_colour>0xFE0000</primary_colour>
+           <secondary_colour>0x00D7FE</secondary_colour>
+		</key>
+
+<!-- 
+
+	------- going forwards -------		
+
+-->
+
+		<key>
+			<value>1</value>
+			<key_name>G</key_name>
+			<key_values>
+				<key_value>G</key_value>
+				<key_value>e</key_value>
+			</key_values>
+			<colour_description>Orange, (red-yellow, fiery)</colour_description>
+           <primary_colour>0xFF1700</primary_colour>
+           <secondary_colour>0x38A61A</secondary_colour>
+		</key>
+		<key>
+			<value>2</value>
+			<key_name>D</key_name>
+			<key_values>
+				<key_value>D</key_value>
+				<key_value>b</key_value>
+			</key_values>
+			<colour_description>Sunny Yellow</colour_description>
+           <primary_colour>0xFE6000</primary_colour>
+           <secondary_colour>0x2A786E</secondary_colour>
+		</key>
+		<key>
+			<value>3</value>
+			<key_name>A</key_name>
+			<key_values>
+				<key_value>A</key_value>
+				<key_value>f#</key_value>
+			</key_values>
+			<colour_description>Green, grass green</colour_description>
+           <primary_colour>0x0B9800</primary_colour>
+           <secondary_colour>0x1B9DF0</secondary_colour>
+		</key>
+		<key>
+			<value>4</value>
+			<key_name>E</key_name>
+			<key_values>
+				<key_value>E</key_value>
+				<key_value>c#</key_value>
+			</key_values>
+			<colour_description>Blue greenish (light blue)</colour_description>
+           <primary_colour>0x000098</primary_colour>
+           <secondary_colour>0x1A8412</secondary_colour>
+		</key>
+		<key>
+			<value>5</value>
+			<key_name>B</key_name>
+			<key_values>
+				<key_value>B</key_value>
+				<key_value>g#</key_value>
+				<key_value>Cb</key_value>
+				<key_value>ab</key_value>
+			</key_values>
+			<colour_description>Dark blue with light blueness</colour_description>
+           <primary_colour>0x000096</primary_colour>
+           <secondary_colour>0x211B2A</secondary_colour>
+		</key>
+		<key>
+			<value>6</value>
+			<key_name>F#=Gb</key_name>
+			<key_values>
+				<key_value>F#</key_value>
+				<key_value>Gb</key_value>
+				<key_value>d#</key_value>
+				<key_value>eb</key_value>
+			</key_values>
+			<colour_description>Dark blue with a shade of violet</colour_description>
+           <primary_colour>0x06003E</primary_colour>
+           <secondary_colour>0x3E0001</secondary_colour>
+		</key>
+<!-- 
+
+	------- going backwards -------		
+
+-->
+		<key>
+			<value>-1</value>
+			<key_name>F</key_name>
+			<key_values>
+				<key_value>F</key_value>
+				<key_value>d</key_value>
+			</key_values>
+			<colour_description>Dark red</colour_description>
+           <primary_colour>0x6C0000</primary_colour>
+           <secondary_colour>0x23232A</secondary_colour>
+		</key>
+		<key>
+			<value>-2</value>
+			<key_name>Bb</key_name>
+			<key_values>
+				<key_value>Bb</key_value>
+				<key_value>g</key_value>
+			</key_values>
+			<colour_description>Metallic leaden grey</colour_description>
+           <primary_colour>0x000000</primary_colour>
+           <secondary_colour>0x16172A</secondary_colour>
+		</key>
+		<key>
+			<value>-3</value>
+			<key_name>Eb</key_name>
+			<key_values>
+				<key_value>Eb</key_value>
+				<key_value>c</key_value>
+				<key_value>D#</key_value>
+			</key_values>
+			<colour_description>Steely blue, metallic</colour_description>
+           <primary_colour>0x001F3C</primary_colour>
+           <secondary_colour>0x324227</secondary_colour>
+		</key>
+		<key>
+			<value>-4</value>
+			<key_name>Ab</key_name>
+			<key_values>
+				<key_value>Ab</key_value>
+				<key_value>f</key_value>
+				<key_value>G#</key_value>
+			</key_values>
+			<colour_description>Lily-coloured, reddish</colour_description>
+           <primary_colour>0x170048</primary_colour>
+           <secondary_colour>0x640505</secondary_colour>
+		</key>
+		<key>
+			<value>-5</value>
+			<key_name>Db</key_name>
+			<key_values>
+				<key_value>Db</key_value>
+				<key_value>bb</key_value>
+				<key_value>C#</key_value>
+				<key_value>a#</key_value>
+			</key_values>			
+			<colour_description>Pure violet</colour_description>
+           <primary_colour>0x110028</primary_colour>
+           <secondary_colour>0x11522E</secondary_colour>
+		</key>
+
+	</keys>
+</key-definitions>
+

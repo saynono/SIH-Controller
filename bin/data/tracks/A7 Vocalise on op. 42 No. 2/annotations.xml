@@ -1,0 +1,62 @@
+<score-annotations>
+		<title>Scriabin Etude Op.42 No.2</title>
+		<measures>
+			<offset>0</offset>
+			<length>31</length>
+		</measures>
+		<keys>
+			<key>
+				<value></value>
+				<key_value>F#</key_value>
+				<key_name>F#</key_name>
+				<colour_description>Dark blue violet</colour_description>
+				<begin>1</begin>
+				<end>7</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>1</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_value>C#</key_value>
+				<key_name>C#</key_name>
+				<colour_description>Violet</colour_description>
+				<begin>7</begin>
+				<end>11</end>				
+				<fadebegin>1</fadebegin>
+				<fadeend>0</fadeend>
+                                <fadebegin>0</fadebegin>
+				<fadeend>2</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_value>B</key_value>
+				<key_name>B</key_name>
+				<colour_description>Blue</colour_description>
+				<begin>12</begin>
+				<end>16</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_value>C#</key_value>
+				<key_name>Hint of C#</key_name>
+				<colour_description>Violet</colour_description>
+				<begin>16</begin>
+				<end>17</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_value>F#</key_value>
+				<key_name>F#</key_name>
+				<colour_description>Dark blue violet</colour_description>
+				<begin>17</begin>
+				<end>31</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+		</keys>
+</score-annotations>
+

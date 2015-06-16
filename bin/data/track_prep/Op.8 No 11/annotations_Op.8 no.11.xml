@@ -1,0 +1,131 @@
+<score-annotations>
+		<title>Scriabin Etude Op.8 No.11</title>
+		<measures>
+			<offset>4</offset>
+			<length>50</length>
+			<beats>3</beats>
+			<beat-type>4</beat-type>
+		</measures>
+		<keys>
+			<key>
+				<value></value>
+				<key_name>Bb minor</key_name>
+				<colour_description>Metallic leaden grey</colour_description>
+				<begin>1</begin>
+				<end>14</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>3</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>Db minor</key_name>
+				<colour_description>Lily-colored (fuschia)</colour_description>
+				<begin>12</begin>
+				<end>16.1</end>				
+				<fadebegin>3</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>D major</key_name>
+				<colour_description>Hint of yellow</colour_description>
+				<begin>16.2</begin>
+				<end>16.3</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>Db minor</key_name>
+				<colour_description>Lily-colored (fuschia)</colour_description>
+				<begin>16.3</begin>
+				<end>18.1</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>D major</key_name>
+				<colour_description>Hint of yellow</colour_description>
+				<begin>18.2</begin>
+				<end>18.3</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>D major</key_name>
+				<colour_description>yellow</colour_description>
+				<begin>19.1</begin>
+				<end>19.2</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>E major</key_name>
+				<colour_description>Blue-green</colour_description>
+				<begin>19.3</begin>
+				<end>20.3</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+
+			<key>
+				<value></value>
+				<key_name>Gb major</key_name>
+				<colour_description>Dark blue-violet</colour_description>
+				<begin>20.4</begin>
+				<end>21.2</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>Ab major</key_name>
+				<colour_description>Lily-colored</colour_description>
+				<begin>21.3</begin>
+				<end>22.1</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>F major</key_name>
+				<colour_description>Dark red</colour_description>
+				<begin>22.2</begin>
+				<end>28</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>2</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>Bb minor</key_name>
+				<colour_description>Metallic leaden grey</colour_description>
+				<begin>27</begin>
+				<end>42</end>				
+				<fadebegin>2</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>Implication of Cb major</key_name>
+				<colour_description>Blue</colour_description>
+				<begin>43</begin>
+				<end>46</end>				
+				<fadebegin>2</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<value></value>
+				<key_name>Bb minor</key_name>
+				<colour_description>Metallic leaden grey</colour_description>
+				<begin>47</begin>
+				<end>54</end>				
+				<fadebegin>2</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+
+		</keys>
+</score-annotations>
+

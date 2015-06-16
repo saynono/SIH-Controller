@@ -1,0 +1,129 @@
+<score-annotations>
+		<title>Scriabin Etude Op.8 No.5</title>
+		<measures>
+			<offset>0</offset>
+			<length>59</length>
+		</measures>
+		<keys>
+			<key>
+				<key_value>E</key_value>
+				<key_name>E major</key_name>
+				<colour_description>Blue green</colour_description>
+				<begin>1</begin>
+				<end>4</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>G#</key_value>
+				<key_name>G# minor</key_name>
+				<colour_description>Lily-colored (fuschia)</colour_description>
+				<begin>5</begin>
+				<end>6</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>B</key_value>
+				<key_name>B major</key_name>
+				<colour_description>Blue lightblue</colour_description>
+				<begin>7</begin>
+				<end>8</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>F#</key_value>
+				<key_name>F# minor</key_name>
+				<colour_description>Dark blue-violet</colour_description>
+				<begin>9</begin>
+				<end>11</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>1</fadeend>
+			</key>
+			<key>
+				<key_value>E</key_value>
+				<key_name>E major</key_name>
+				<colour_description>Blue green</colour_description>
+				<begin>11</begin>
+				<end>16</end>				
+				<fadebegin>1</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>C#</key_value>
+				<key_name>C#minor</key_name>
+				<colour_description>violet</colour_description>
+				<begin>17</begin>
+				<end>20</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>G#</key_value>
+				<key_name>G#minor</key_name>
+				<colour_description>Lily colour</colour_description>
+				<begin>21</begin>
+				<end>24</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+
+			<key>
+				<key_value>F#</key_value>
+				<key_name>F# minor</key_name>
+				<colour_description>Dark blue-violet</colour_description>
+				<begin>25</begin>
+				<end>32</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>2</fadeend>
+			</key>
+			<key>
+				<key_value>E</key_value>
+				<key_name>E major</key_name>
+				<colour_description>Blue-green</colour_description>
+				<begin>31</begin>
+				<end>36</end>				
+				<fadebegin>2</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>G#</key_value>
+				<key_name>G# minor</key_name>
+				<colour_description>Lily coloured</colour_description>
+				<begin>37</begin>
+				<end>38</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>B</key_value>
+				<key_name>B major</key_name>
+				<colour_description>Blue</colour_description>
+				<begin>39</begin>
+				<end>40</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+			<key>
+				<key_value>F#</key_value>
+				<key_name>F# minor</key_name>
+				<colour_description>Dark blue violet</colour_description>
+				<begin>41</begin>
+				<end>44</end>				
+				<fadebegin>0</fadebegin>
+				<fadeend>2</fadeend>
+			</key>
+			<key>
+				<key_value>E</key_value>
+				<key_name>E major</key_name>
+				<colour_description>Blue green</colour_description>
+				<begin>43</begin>
+				<end>58</end>				
+				<fadebegin>2</fadebegin>
+				<fadeend>0</fadeend>
+			</key>
+
+		</keys>
+</score-annotations>
+
